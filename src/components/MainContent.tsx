@@ -14,7 +14,7 @@ function MainContent(): JSX.Element {
         }
         views={1}
         likes={1}
-        postDate={{ month: "June", day: 13, year: 2021 }}
+        postDate={{ month: "June", day: 15, year: 2021 }}
       />
       <JournalEntry
         title={"Dreaming of Stones"}
